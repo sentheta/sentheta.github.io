@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sentheta
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - sentheta/agent-core
+  - sentheta/AIML-web
+  - sentheta/SC2006-ParkNGo
+  - sentheta/cOpe
+  - sentheta/unstable-unicorns
+  - sentheta/al-folio
+

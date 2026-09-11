@@ -1,189 +1,181 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Vannes Wijaya
+  label: Computer Science Student & Machine Learning Engineer
+  email: vanneswijayaa@gmail.com
+  phone: "+6581792247"
+  location: Singapore
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Final-year Computer Science student at Nanyang Technological University (QS #11) with proven expertise in low-level systems, algorithms and software engineering. Competed at international level in multiple IOI and ICPC, developing high-performance algorithmic mathematical solutions. Seeking full-time opportunities in Singapore, starting May 2027.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
+      username: vannes-wijaya-a4b74a230
+    - network: GitHub
+      username: sentheta
+    - network: Instagram
+      username: vanneswij
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 22 Nanyang Avenue
+    city: Singapore
+    postalCode: "639810"
+    countryCode: SG
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Nanyang Technological University
+        location: Singapore
+        url: https://www.ntu.edu.sg/
+        area: Computer Science
+        studyType: Bachelor
+        start_date: 2023
+        end_date: 2027
+        score: "GPA 4.84 / 5.00"
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+          - Expected graduation in May 2027 with First Class Honours (GPA 4.84 / 5.00)
+          - Dean's List Award Academic Year 2024–2025
+          - GEM Student Exchange Programme 2026 to Sogang University, South Korea
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Huawei
+        position: Machine Learning Engineer
+        location: Singapore
+        start_date: 2026-08
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
+          - Developing computer-use agents for OpenJiuwen, including experimental results analysis, hyperparameter tuning, prompting, memory management, alignment, multi-modal reasoning and planning
+          - "Skills: Python, Agentic Coding, Harness Design"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Ader Co
+        position: Fullstack Developer Freelance
+        start_date: 2026-01
+        end_date: 2026-03
         highlights:
-          - Description 1.
-          - Description 2.
+          - Developed AI-assisted online learning service web application, using Next.js and PostgreSQL
+          - Managed end-to-end development process, from system design, backend, frontend, authentication to deployment
+          - "Skills: Next.js, React.js, PostgreSQL, Web Development"
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Huawei
+        position: Processing Algorithm Engineer
+        location: Nanjing, China / Singapore
+        start_date: 2025-08
+        end_date: 2025-12
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Developed PyPTO, python framework for Huawei NPU to optimize for developer's ease-of-use, runtime efficiency, and numerical accuracy
+          - Utilized internal framework to implement and deploy state-of-the-art LLMs and machine learning algorithms
+          - Delegated to Huawei Nanjing Research Center in China to integrate the framework and models for high-performance computing pipelines
+          - "Skills: GPU Programming, Ascend & CANN, Python, C++, CMake, Docker, Linux"
+
+      - company: ST Engineering
+        position: Machine Learning Engineer
+        location: Singapore
+        start_date: 2025-05
+        end_date: 2025-08
+        highlights:
+          - Developed production-grade ML pipelines utilizing LLMs, VLMs, and object detection models, using speculative decoding to improve efficiency of internal libraries
+          - Engineered service integration for third-party Amazon devices
+          - "Skills: LLM, VLM, YOLO, Computer Vision, Data Pipeline, Python, Node.js, Git, Docker, Linux"
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: ICPC Asia Pacific Championships
+        awarder: ICPC
+        summary: 1 Bronze Medal, 1 Honorable Mention
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: ICPC Regionals
+        awarder: ICPC
+        summary: 1 Gold Medal, 3 Silver Medals
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: International Olympiad in Informatics (IOI)
+        awarder: IOI
+        summary: 2 Silver Medals
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - title: Ruangguru Clash of Champions II
+        awarder: Ruangguru
+        summary: Winner
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - title: Ruangguru Road of Champions
+        awarder: Ruangguru
+        summary: Runner Up
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: TCS CodeVita
+        awarder: Tata Consultancy Services
+        summary: Second Runner Up
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - title: Google Kickstart
+        awarder: Google
+        summary: Global Rank Top 48th
 
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - title: NTU Dean's List Award
+        awarder: Nanyang Technological University
+        date: 2025
+        summary: Academic Year 2024–2025
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: NTU Final Year Project on Deep Evolving Network
+        summary: Ongoing research on Explainable AI methods and neuro-fuzzy architectures, as part of NTU Final Year Project.
+        start_date: 2026
+        end_date: present
+
+      - name: PYPHub Web Forum
+        summary: Developed student forum for past-year-paper discussion and automated solver, as part of Students' Computing and Data Science Club initiatives.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Engineered data ingestion pipeline to preprocess and upload papers and course materials to AWS S3 and OpenAI vector stores, significantly improving resource accessibility for both users and LLMs in solution generation
+        start_date: 2025
+        end_date: 2025
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: NTU URECA Undergraduate Research Programme
+        summary: Designed and evaluated deep learning agents to solve classic optimization and decision problems, using methods inspired from AlphaGo-style self-play training.
+        start_date: 2025
+        end_date: 2025
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: AI & ML Club Website
+        summary: Developed official club page, as part of NTU Artificial Intelligence and Machine Learning Club initiatives. Responsive website using React.js, TypeScript and TailwindCSS.
+        highlights:
+          - Developed responsive website using React.js, TypeScript and TailwindCSS, leveraging open-source libraries and design systems for enhanced functionality and user interfaces
+        start_date: 2025
+        end_date: 2025
+
+      - name: ParkNGo Web Application
+        summary: Developed full-stack web app with realtime search, filtering and geolocation features for car park management and discovery, as part of Software Engineering Coursework. Stack includes React.js, Next.js, and TailwindCSS.
+        highlights:
+          - Developed full-stack web app with realtime search, filtering and geolocation features for car park management and discovery
+        start_date: 2024
+        end_date: 2024
+
+      - name: TOKI Open Contest Problemsetting
+        summary: Curated high-quality algorithmic problems, full-coverage test suites, and detailed editorials for a competitive programming contest with hundreds of participants across the globe. Part of TOKI Regular Open Contest 31.
+        highlights:
+          - Curated high-quality algorithmic problems, full-coverage test suites, and detailed editorials for a competitive programming contest with hundreds of participants across the globe
+          - Problems are used as part of TOKI Regular Open Contest 31, sponsored by official Indonesia IOI Training Team
+        start_date: 2023
+        end_date: 2023
+
+    Skills:
+      - name: Programming Languages
+        icon: fa-solid fa-code
+        keywords: "Python, C/C++, Java, Javascript, TypeScript, SQL"
+
+      - name: Machine Learning
+        icon: fa-solid fa-brain
+        keywords: "PyTorch, LangChain, Numpy, Scikit-learn, Pandas, Matplotlib, LLM, VLM, YOLO"
+
+      - name: Web Development
+        icon: fa-solid fa-laptop-code
+        keywords: "React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, TailwindCSS"
+
+      - name: Tools & Systems
+        icon: fa-solid fa-gears
+        keywords: "Git, Docker, Linux, CMake, AWS S3, Ascend & CANN"
+
+    Languages:
+      - name: English
+        summary: Professional
+
+      - name: Indonesian
+        summary: Native
+
+      - name: Chinese
+        summary: Basic
+
+      - name: Japanese
+        summary: Basic
